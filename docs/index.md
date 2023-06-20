@@ -1,7 +1,7 @@
 ---
 layout: default
-title: andryk page
-description: andryk page
+title: andryk portfolio page
+description: portfolio page
 ---
 
 ---------------------------
@@ -13,24 +13,27 @@ contact me here.
 * [instagram](https://www.instagram.com/andrykph1/){:target="_blank"}
 * [twitter](https://twitter.com/andrykph){:target="_blank"}
 
+よろしければ相方のtwitterも見ていってください。
+* [partner twitter](https://twitter.com/sirokuroandkiyu){:target="_blank"}
+
 ---------------------------
 ## my history
 
-大学生のころにカメラやマニュアル撮影に興味を持って勉強を始めました。  
-現在は相方と一緒にコスプレ撮影を楽しみながら、ポートレート撮影の猛勉強中です。。。  
-first time, when I am college student, I had big interest in camera and learned about shooting in manual mode.  
-several years later, I found my cosplay pertner, and now enjoying cosplay portrait photography and improving its skills.
-
-よろしければ相方のtwitterも見ていってください。  
-this is my partner twitter; visit it as well if possible.
-* [partner twitter](https://twitter.com/sirokuroandkiyu){:target="_blank"}
+大学生のころにカメラやマニュアル撮影に興味を持って勉強を始めました。
+現在は相方と一緒にコスプレ撮影を楽しんでいます。撮影したものはインスタか twitter を見て頂ければと思います。
 
 ---------------------------
 ## about me 自己紹介
 
 東京在住の日本人です。米国にホームステイに行ったり、フランスでフリーランスの仕事をしたことがあります。  
-本職はIT人間です。趣味は楽器 (バイオリン、ピアノ、チューバ、フルート、ドラム etc)、語学 (主にラテン語、古典ギリシャ語) などです。  
-_andryk_ という名前は中二病時代に作った名前です。今となってはいい思い出です、、、(黒歴史クリーナーで記憶を消しています)
+本職はIT人間です。趣味は楽器 (バイオリン、ピアノ、チューバ、フルート、ドラム etc)、語学 (主にラテン語、古典ギリシャ語)、お散歩などです。
 
-二次元コンテンツで好きなものは アイマス (P歴2007年～2018年くらい)、ラブライブ、きらら系。前髪ぱっつんなキャラクターが推しになりやすいです。  
-好きな声優は 古川慎 さんです。歌声がめちゃくちゃかっこよくて好きです。
+中学生時代に英和辞典を読んでいたところ、英単語がジグソーパズルな構成になっていることに気が付いて、古典語に興味を持ちました。  
+その頃から中二病時代の幕開けとなりました。大学時代は、原宿のゴスロリ服専門店で売られていたマントを着て、夜中に家の近くの公園で魔法陣を書いたりしていました。
+
+_andryk_ という名前は中二病時代に作った名前で、使徒アンデレが由来になっています。なぜアンドレにしたのかは覚えていませんが、聖書を読んで何かあったのかもしれません。詳細は、謎です。
+
+勉強は好きなので、今も空いている時間を利用して英和辞典 (Wikitionary) を読んだりIT系の学習をしたりしています。
+
+二次元コンテンツで好きなものは アイマス (P歴2007年～2018年くらい)、ラブライブ、きらら系。前髪ぱっつんなキャラクター、中二病が推しになりやすいです。  
+好きな声優は 古川慎 さんです。歌声がめちゃくちゃかっこよくて好きです。miserable masquerade めちゃくちゃかっこいいので是非聞いてほしい。
