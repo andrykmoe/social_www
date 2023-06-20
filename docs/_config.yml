@@ -6,3 +6,4 @@ plugins:
 show_downloads: false
 description: {{ page.description }}
 locale: ja_JP
+google_analytics: G-GJLKM1N526
