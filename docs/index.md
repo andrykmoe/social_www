@@ -6,7 +6,7 @@ description: portfolio page
 
 ---------------------------
 
-最終更新日：2023/07/15
+最終更新日：2023/08/04
 
 ---------------------------
 
@@ -17,19 +17,11 @@ description: portfolio page
 
 * [twitter](https://twitter.com/andrykph){:target="_blank"}
 
-    現時点で利用頻度は最も高いです。主に相方の写真を上げる場所にしています。
+    現時点で利用頻度は最も高いです。時たま相方の写真を上げるかもしれません。
 
 * [cosmisskey](https://cosmisskey.cc/@andrykph){:target="_blank"}
 
     Twitter の避難場所として利用します。1日に1回はログインしています。
-
-* [Threads](https://www.threads.net/@andrykph1){:target="_blank"}
-
-    コス写真以外のものを上げる場所にしていますがこちらでも連絡可能です。
-
-* [instagram](https://www.instagram.com/andrykph1/){:target="_blank"}
-
-    相方のコス写真跡地。利用頻度は低いかもしれませんが、こちらでも連絡可能です。
 
 
 ## 写真の受け渡しについて
@@ -47,7 +39,7 @@ description: portfolio page
 
 * [twitter本垢](https://twitter.com/mgandryk){:target="_blank"}
 
-    お急ぎの方はtwitter本垢にご連絡頂けると助かります。私の趣味全開のアカウントですみません。。。
+    お急ぎの方はtwitter本垢にご連絡頂けると助かります。
 
 * [相方twitter](https://twitter.com/sirokuroandkiyu){:target="_blank"}
 
