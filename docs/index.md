@@ -12,7 +12,8 @@ description: portfolio page
 
 ## 撮影物
 
-掲載頂いた写真の置き場です。
+掲載頂いた写真の置き場です。  
+掲載頂いた写真をツイート埋め込みで紹介しています。
 
 * [2023年](./ph2023)
 
@@ -50,3 +51,15 @@ description: portfolio page
 * [相方twitter](https://twitter.com/sirokuroandkiyu){:target="_blank"}
 
     よろしければ相方のtwitterも見ていってください。
+
+
+## 持っている機材
+
+* カメラ：Canon EOS R7
+* レンズ：Canon RF16mm/RF35mm/RF50mm/RF85mm、SIGMA 30mm
+* ストロボ：Godox ad300pro x2、Godox TT685II
+* ソフトボックス：Aputure Light Dome III x2、Aputure Light Dome Mini III x2、その他いくつか
+* レタッチ環境：Lightroom or Photoshop / Core i7+RAM64GB+RTX3070+NAS+UPS
+
+風景撮り・月が好きで学生時代からフジを使い続けましたが、相方を撮影するようになってからはCanonを使っています。  
+フィルム時代からAPS-Cが好きでカメラはR7一択でした。フジのGFXが気になっているのでそのうちGFXを追加するかもです。
