@@ -6,7 +6,7 @@ description: portfolio page
 
 ---------------------------
 
-最終更新日：2023/10/31
+最終更新日：2024/01/10
 
 ---------------------------
 
@@ -20,7 +20,8 @@ description: portfolio page
 
 イベント等で撮影したコスプレ写真のうち、twitter で掲載頂いたものを埋め込みで紹介しています。
 
-* [2023年](./ph2023/)
+* [2024年](./twitter_ph/2024/)
+* [2023年](./twitter_ph/2023/)
 
 
 ## SNS link
@@ -59,13 +60,13 @@ description: portfolio page
 
 ## 持っている機材
 
-* カメラ：Canon EOS R7
+* カメラ：Canon EOS R7 (すごくたまに R6 Mark II を投入)
 * レンズ：Canon RF16mm/RF35mm/RF50mm/RF85mm、SIGMA 30mm
-* ストロボ：Godox ad300pro x2、Godox TT685II
+* ストロボ：Godox ad300pro x2、Godox TT685II x2
 * ソフトボックス：Aputure Light Dome III x2、Aputure Light Dome Mini III x2、その他いくつか
 * レタッチ環境：Lightroom or Photoshop / Core i7+RAM64GB+RTX3070+NAS+UPS
 
-風景撮り・月が好きで学生時代からフジを使い続けましたが、相方を撮影するようになってからはCanonを使っています。  
+風景撮り・月が好きで学生時代からフジを使い続けましたが、相方を撮影するようになってからはCanonを使っています。望遠が好きなので、相方を撮影する際はR7+85mmの組み合わせで撮影することが多いです。  
 フィルム時代はニコン、学生時代はフジ、最近はCanonで浮気しまくりですが、最近はフジのGFXが非常に気になっているのでそのうちフジに戻りそうだなぁ。
 
 
@@ -114,5 +115,6 @@ description: portfolio page
 * モータースポーツ (特にF1/F2)
 * 語学 (ラテン語、語源学)
 * メーデー民 FND!
+* 青山オペレッタ
 
     このあたりは気が向いたら追記します。
