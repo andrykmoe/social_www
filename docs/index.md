@@ -6,7 +6,7 @@ description: portfolio page
 
 ---------------------------
 
-最終更新日：2024/01/20
+最終更新日：2024/02/11
 
 ---------------------------
 
@@ -29,11 +29,11 @@ description: portfolio page
 基本的に相方のコス写真をメインに撮影する人間ですが、イベント等ではたまにお声がけするかもしれません。  
 写真の受け渡しには以下が利用可能です。連絡等はこちらにどうぞ。
 
-* [twitter](https://twitter.com/andrykph){:target="_blank"}
+* [twitter (X)](https://twitter.com/andrykph){:target="_blank"}
 
     現時点で利用頻度は最も高いです。時たま相方の写真を上げるかもしれません。
 
-* [cosmisskey](https://cosmisskey.cc/@andrykph){:target="_blank"}
+* [Bluesky](https://bsky.app/profile/andryk.moe){:target="_blank"}
 
     Twitter の避難場所として利用します。1日に1回はログインしています。
 
