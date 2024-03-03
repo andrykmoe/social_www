@@ -6,19 +6,19 @@ description: portfolio page
 
 ---------------------------
 
-最終更新日：2024/02/11
+最終更新日：2024/03/04
 
 ---------------------------
 
 ## 簡単な自己紹介
 
 コスプレのイベント等でカメラマンやっています。  
-もともと風景写真がメインで、人物撮りは2022年頃から始めました。今は人物撮りの勉強中です！
+もともと風景写真がメインで、人物撮りは2022年頃から始めました。
 
 
 ## 撮影物
 
-イベント等で撮影したコスプレ写真のうち、twitter で掲載頂いたものを埋め込みで紹介しています。
+イベント等で撮影したコスプレ写真のうち、twitterで掲載頂いたものを埋め込みで紹介しています。
 
 * [2024年](./twitter_ph/2024/)
 * [2023年](./twitter_ph/2023/)
@@ -31,11 +31,11 @@ description: portfolio page
 
 * [twitter (X)](https://twitter.com/andrykph){:target="_blank"}
 
-    現時点で利用頻度は最も高いです。時たま相方の写真を上げるかもしれません。
+    主にイベントで撮影しました写真の受け渡し用に利用します。
 
 * [Bluesky](https://bsky.app/profile/andryk.moe){:target="_blank"}
 
-    Twitter の避難場所として利用します。1日に1回はログインしています。
+    Twitter の避難場所として利用します。風景写真等コスプレ以外の写真はこちらに上げていますので、作例等参考にしたい方はこちらをご確認ください。
 
 
 ## 写真の受け渡しについて
@@ -61,13 +61,10 @@ description: portfolio page
 ## 持っている機材
 
 * カメラ：Canon EOS R7 (すごくたまに R6 Mark II を投入)
-* レンズ：Canon RF16mm/RF35mm/RF50mm/RF85mm、SIGMA 30mm
+* レンズ：Canon RF16mm/RF35mm/RF50mm/RF85mm/RF800mm、EF35mm、SIGMA 30mm
 * ストロボ：Godox ad300pro x2、Godox TT685II x2
 * ソフトボックス：Aputure Light Dome III x2、Aputure Light Dome Mini III x2、その他いくつか
-* レタッチ環境：Lightroom or Photoshop / Core i7+RAM64GB+RTX3070+NAS+UPS
-
-風景撮り・月が好きで学生時代からフジを使い続けましたが、相方を撮影するようになってからはCanonを使っています。望遠が好きなので、相方を撮影する際はR7+85mmの組み合わせで撮影することが多いです。  
-フィルム時代はニコン、学生時代はフジ、最近はCanonで浮気しまくりですが、最近はフジのGFXが非常に気になっているのでそのうちフジに戻りそうだなぁ。
+* レタッチ環境：Lightroom or Photoshop / Core i7+RAM64GB+RTX3070 / NAS (Synology DS420j 8TBx4) / UPS (APC RS 1200S)
 
 
 ## 主な守備範囲、趣味
