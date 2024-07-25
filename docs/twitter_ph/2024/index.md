@@ -9,7 +9,9 @@ description: 2024写真置き場
 twitterの埋め込みを利用しています。読み込みが遅いため、ツイートが表示されるまで時間がかかるかもしれません。
 </p>
 
-* [&emsp;page #8: 6月&emsp;](./8)
+* [&emsp;page #9: 7月&emsp;](./9)
+
+* [&emsp;page #8: 6～7月&emsp;](./8)
 
 * [&emsp;page #7: 5月&emsp;](./7)
 
