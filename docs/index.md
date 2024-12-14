@@ -28,13 +28,13 @@ description: portfolio page
 基本的に相方のコス写真をメインに撮影する人間ですが、イベント等ではたまにお声がけするかもしれません。  
 写真の受け渡しには以下が利用可能です。連絡等はこちらにどうぞ。
 
-* [twitter (X)](https://twitter.com/andrykph){:target="_blank"}
+* [X (twitter)](https://x.com/andrykph){:target="_blank"}
 
     主にイベントで撮影しました写真の受け渡し用に利用します。
 
 * [Bluesky](https://bsky.app/profile/andryk.moe){:target="_blank"}
 
-    Twitter の避難場所として利用します。風景写真等コスプレ以外の写真はこちらに上げていますので、作例等参考にしたい方はこちらをご確認ください。
+    X (twitter) の避難場所として利用します。風景写真等コスプレ以外の写真はこちらに上げていますので、作例等参考にしたい方はこちらをご確認ください。
 
 
 ## 写真の受け渡しについて
@@ -47,13 +47,13 @@ description: portfolio page
 
 ## その他
 
-* [twitter本垢](https://twitter.com/mgandryk){:target="_blank"}
+* [X (twitter) 本垢](https://x.com/mgandryk){:target="_blank"}
 
-    お急ぎの方はtwitter本垢にご連絡頂けると助かります。
+    お急ぎの方はX (twitter)本垢にご連絡頂けると助かります。
 
-* [相方twitter](https://twitter.com/sirokuroandkiyu){:target="_blank"}
+* [相方X (twitter)](https://x.com/sirokuroandkiyu){:target="_blank"}
 
-    よろしければ相方のtwitterも見ていってください。  
+    よろしければ相方のX(twitter)も見ていってください。  
     相方と併せをして頂けるレイヤー様おりましたら相方にご連絡頂けると喜びます。
 
 
