@@ -22,6 +22,8 @@ description: portfolio page
 
 * [X (twitter) まとめ](./twitter_ph/)
 
+* [Exif集計結果 (2024年10月版)](https://bsky.app/profile/andryk.moe/post/3l77jmf5pkt2m){:target="_blank"}
+
 
 ## SNS link
 
