@@ -6,7 +6,7 @@ description: portfolio page
 
 ---------------------------
 
-最終更新日：2024/10/22
+最終更新日：2024/12/15
 
 ---------------------------
 
@@ -18,10 +18,9 @@ description: portfolio page
 
 ## 撮影物
 
-イベント等で撮影したコスプレ写真のうち、twitterで掲載頂いたものを埋め込みで紹介しています。
+イベント等で撮影したコスプレ写真のうち、X (twitter) で掲載頂いたものを埋め込みで紹介しています。
 
-* [2024年](./twitter_ph/2024/)
-* [2023年](./twitter_ph/2023/)
+* [X (twitter) まとめ](./twitter_ph/)
 
 
 ## SNS link
@@ -55,13 +54,13 @@ description: portfolio page
 * [相方twitter](https://twitter.com/sirokuroandkiyu){:target="_blank"}
 
     よろしければ相方のtwitterも見ていってください。  
-    ラブライブ関連で相方と併せやって頂けるレイヤー様おりましたら相方にご連絡頂けると喜びます。
+    相方と併せをして頂けるレイヤー様おりましたら相方にご連絡頂けると喜びます。
 
 
 ## 持っている機材
 
 * カメラ：Canon EOS R6 Mark II、Canon EOS R7
-* レンズ：Canon EF35mm F1.4L II、RF50mm F1.2L、RF85mm F2.0、RF800mm F11
+* レンズ：Canon RF50mm F1.2L、RF85mm F2.0、RF800mm F11、EF35mm F1.4L II、EF16-35mm F2.8L III
 * ストロボ：Godox ad300pro x2、Godox TT685II x2
 * ソフトボックス：Aputure Light Dome III x2、Aputure Light Dome Mini III x2、その他いくつか
 * レタッチ環境：Lightroom or Photoshop or Capture One / Core i7+RAM64GB+RTX3070 / NAS (Synology DS420j 8TBx4) / UPS (APC RS 1200S)
