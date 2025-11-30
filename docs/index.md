@@ -6,7 +6,7 @@ description: portfolio page
 
 ---------------------------
 
-最終更新日：2025/07/02
+最終更新日：2025/11/30
 
 ---------------------------
 
@@ -66,3 +66,11 @@ description: portfolio page
 * ストロボ：Godox ad300pro x2、Godox TT685II x2
 * ソフトボックス：Aputure Light Dome III x2、Aputure Light Dome Mini III x2、その他いくつか
 * レタッチ環境：Lightroom or Photoshop or Capture One / Core i7+RAM64GB+RTX3070 / NAS (Synology DS420j 8TBx4) / UPS (APC RS 1200S)
+
+
+## 作業用BGM
+
+* Ola Gjeilo - North Country II
+* George Strait - All My Ex's Live In Texas
+* Rod Stewart - My Heart Can't Tell You No
+* Ralph Tresvant - Sencivity
